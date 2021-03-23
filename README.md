@@ -8,12 +8,21 @@
 
 -Atualmente estudando e trabalhando com Java e Delphi.
 
-### Repositórios
-
--Em construção...
-
 ### Passatempos
 
 -[GameJolt](https://gamejolt.com/@jonathanfdr/games) - Alguns jogos que desenvolvi em GameJams.
 
--[Twitter](https://twitter.com/jonathanfdr) - Nem sempre sobre tecnologia
+-[Twitter](https://twitter.com/jonathanfdr) - Nem sempre sobre tecnologia.
+
+## Repositórios
+
+### C++
+-Em construção...
+
+### Java
+-Em construção...
+
+### Delphi
+-Em construção...
+
+
