@@ -5,6 +5,7 @@
 
 ### Sobre 
 Sou desenvolvedor {backend}, apaixonado por {matemática} e {gamedev} entusiasta.
+
 Atualmente estudando e trabalhando com Java e Delphi.
 
 - [GameJolt](https://gamejolt.com/@jonathanfdr/games) - Alguns jogos que desenvolvi em GameJams.
