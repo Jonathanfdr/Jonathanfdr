@@ -6,4 +6,4 @@
 ### Sobre 
 -Sou desenvolvedor {backend}, apaixonado por {matemática} e {enxadrista} nas horas vagas.
 
--Atualmente estudando e trabalhando com Java.
+-Desde sempre estudando e trabalhando com Java.
