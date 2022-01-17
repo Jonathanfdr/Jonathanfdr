@@ -4,25 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanfrosa/)](https://www.linkedin.com/in/jonathanfrosa/)
 
 ### Sobre 
--Sou desenvolvedor {backend}, apaixonado por {matemática} e {gamedev} entusiasta.
+-Sou desenvolvedor {backend}, apaixonado por {matemática} e {enxadrista} nas horas vagas.
 
--Atualmente estudando e trabalhando com Java e Delphi.
-
-### Passatempos
-
--[GameJolt](https://gamejolt.com/@jonathanfdr/games) - Alguns jogos que desenvolvi em GameJams.
-
--[Twitter](https://twitter.com/jonathanfdr) - Nem sempre sobre tecnologia.
-
-## Repositórios
-
-### C++
--Em construção...
-
-### Java
--Em construção...
-
-### Delphi
--Em construção...
-
-
+-Atualmente estudando e trabalhando com Java.
