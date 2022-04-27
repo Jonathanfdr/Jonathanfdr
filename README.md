@@ -1,6 +1,6 @@
 ### Hey there, I'm Jonathan! :wave:
 
-I'm a back-end developer living and working in Joinville, Brazil.
+I'm a back-end Developer living and working in Joinville, Brazil.
 
 ###### NOW
 * :briefcase: Working on [TOTVS Connector](https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-conector/) back-end development
