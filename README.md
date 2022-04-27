@@ -1,9 +1,18 @@
-# Olá, eu sou o Jonathan!
+### Hey there, I'm Jonathan! :wave:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Jonathanfdr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanfrosa/)](https://www.linkedin.com/in/jonathanfrosa/)
+I'm a back-end developer working in Joinville, Brazil.
 
-### Sobre 
--Sou desenvolvedor {backend}, apaixonado por {matemática} e {enxadrista} nas horas vagas.
+###### NOW
+* :briefcase: Working on [TOTVS Connector](https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-conector/) back-end development
+* :blue_book: Studying Software Architecture and Graph Theory
 
--Desde sempre estudando e trabalhando com Java.
+###### BIO
+* :brazil: Passionate Brazilian
+* :student: Mathematics Bachelor <sub>(in progress...)</sub>
+* :man_office_worker: Currently working at TOTVS Joinville
+* :gear: I use daily: `Linux`, `Java`, `MySQL`, `Docker/Kubernetes`
+* :cupid: My favorite programming languages are `C++` and `Java`
+* :broccoli: Vegetarian
+
+###### MY FAVORITE REPOS
+* Working on it...
