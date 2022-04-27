@@ -12,6 +12,7 @@ I'm a back-end developer working in Joinville, Brazil.
 * :man_office_worker: Currently working at TOTVS Joinville
 * :gear: I use daily: `Linux`, `Java`, `MySQL`, `Docker/Kubernetes`
 * :cupid: My favorite programming languages are `C++` and `Java`
+* :chess_pawn: Awfull chess player
 * :broccoli: Vegetarian
 
 ###### MY FAVORITE REPOS
