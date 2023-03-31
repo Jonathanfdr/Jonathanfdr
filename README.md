@@ -4,12 +4,11 @@ I'm a Back-End Developer living and working in Joinville, Brazil.
 
 ###### NOW
 * :briefcase: Working on [TOTVS Connector](https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-conector/) back-end development
-* :blue_book: Studying Platform Engineering and Graph Theory
+* :blue_book: Studying Platform Engineering, Graph Theory and GO Lang
 
 ###### BIO
 * :brazil: Passionate Brazilian
 * :student: Mathematics Bachelor <sub>(in progress...)</sub>
-* :man_office_worker: Currently working at TOTVS Joinville
 * :chess_pawn: Awfull chess player
 * :broccoli: Vegetarian
 
