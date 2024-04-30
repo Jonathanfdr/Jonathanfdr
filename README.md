@@ -11,6 +11,7 @@ I'm a Back-End Developer living and working in Joinville, Brazil.
 * :student: Mathematics Bachelor <sub>(in progress...)</sub>
 * :chess_pawn: Awfull chess player
 * :cat: Owned by a cat named Chico
+* :penguin: Linux user
 
 ###### MY FAVORITE REPOS
 * Working on it...
