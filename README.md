@@ -3,7 +3,7 @@
 I'm a Back-End Developer living and working in Joinville, Brazil.
 
 ###### NOW
-* :briefcase: Working on [TOTVS iPaaS]([https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-conector/](https://www.totvs.com/totvs-ipaas/)) back-end development
+* :briefcase: Working on [TOTVS iPaaS]([https://produtos.totvs.com/ficha-tecnica/tudo-sobre-o-totvs-conector/](https://www.totvs.com/totvs-ipaas/) back-end development
 * :blue_book: Studying Platform Engineering, Graph Theory and Java
 
 ###### BIO
